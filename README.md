@@ -49,7 +49,7 @@ The final game will feature hand-crafted artwork that truly captures the RuneEra
 ## Stay Connected
 
 - 🌐 **Website**: www.runeera.com
-- 💬 **Discord**: [[Coming Soon]](https://discord.gg/qmHsxjph)
+- 💬 **Discord**: https://discord.gg/qmHsxjph
 - 📧 **Email**: info@runeera.com
 
 ## License
